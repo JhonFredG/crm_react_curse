@@ -1,0 +1,36 @@
+{
+  "clientes": [
+    {
+      "nombre": "netflix (updated)",
+      "empresa": "Wireless Networks",
+      "email": "correo2@correo.com",
+      "telefono": "3005131062",
+      "notas": "Cliente mejor pagado por ultimo",
+      "id": 3
+    },
+    {
+      "nombre": "Netflix",
+      "empresa": "Wireless Networks",
+      "email": "correo3@correo.com",
+      "telefono": "3005131062",
+      "notas": "Cliente mejor pagado por ultimo",
+      "id": 4
+    },
+    {
+      "nombre": "Pedro Alberta",
+      "empresa": "Telecomunicaciones SA",
+      "email": "correo4@correo.com",
+      "telefono": "312549098",
+      "notas": "Tu primera cana",
+      "id": 5
+    },
+    {
+      "nombre": "Veronica (upadated)",
+      "empresa": "Tesla SAS",
+      "email": "correo5@correo.com",
+      "telefono": "3505131086",
+      "notas": "El cliente solicita un nuevo auto",
+      "id": 6
+    }
+  ]
+}
